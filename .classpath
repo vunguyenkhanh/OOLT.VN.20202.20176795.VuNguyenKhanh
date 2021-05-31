@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaFX/src"/>
+	<classpathentry kind="src" path="Lab01/src"/>
+	<classpathentry kind="src" path="Lab02/src"/>
+	<classpathentry kind="src" path="Lab03/src"/>
+	<classpathentry kind="src" path="Lab04/src"/>
+	<classpathentry kind="src" path="Lab05/src"/>
+	<classpathentry kind="src" path="Lab06/src"/>
+	<classpathentry kind="src" path="Lab07/src"/>
+	<classpathentry kind="src" path="Lab08/src"/>
+	<classpathentry kind="src" path="Lab09/src"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="javafx-sdk-11.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="output" path="JavaFX/bin"/>
+</classpath>
